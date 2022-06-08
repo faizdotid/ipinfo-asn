@@ -6,4 +6,4 @@ Using api ipinfo.io
 </pre>
 <br>
 
-![Ya deck](https://raw.githubusercontent.com/faizgans14/IPINFO-ASN/)
+![Ya deck](https://raw.githubusercontent.com/faizgans14/IPINFO-ASN/main/Screenshot%20(37).png)
